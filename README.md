@@ -1,2 +1,2 @@
 # portfolyo
-##html,css'de ögrendiklerimi uyguladıgım ilk projem.
+##html,css'de ögrendiklerimi ilk uyguladığım basit projem.
